@@ -1,3 +1,3 @@
 # Python_exercises
 
-"Learning Python the Hard Way" by Jed Shaw exercises and personal notes. 
+"Learn Python the Hard Way: Third Edition" by Zed Shaw exercises and personal notes. 
